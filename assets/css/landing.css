@@ -1,0 +1,62 @@
+.header {
+    height: 320px;
+    padding: 16px;
+    background-image: url("../img/fondo1.jpg");
+    background-position: right bottom;
+    background-repeat: repeat;
+    background-size: cover;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+}
+
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: rgba(47, 44, 152, 0.786);
+    text-align: center;
+    font-size: 70px;
+}
+
+.text {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    color: rgba(47, 44, 152, 0.786);
+    text-align: center;
+    font-weight: 1000;
+}
+
+.caja {
+    display: flex;
+    width: 90%;
+    padding: 40px, 30px, 30px, 30px,;
+    color: rgb(46, 72, 158);
+    font-family: 'Lobster', cursive;
+}
+
+.columna1 {
+    width: 50%;
+}
+
+.columna1 img {
+    height: 300px;
+    width: 350px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+footer {
+    border: solid 10px rgb(49, 67, 161);
+    border-bottom: 10;
+    border-radius: 55px;
+    height: 20px;
+    padding: 60px; 
+    font-size: 40px;
+  }
+
+
+.pie2 {
+    
+    background-image: url("../img/fondo1.jpg");
+     text-align: center;
+    
+}
